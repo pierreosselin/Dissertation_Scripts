@@ -4,10 +4,6 @@ The code include the implementation of the EM algorithm for community latent rep
 
 ## Results
 
-EM algorithm applied to the SAMPSON Dataset from Samuel F Sampson. “A novitiate in a period of change: An experimental and case study of social relationships."
+EM algorithm applied to the SAMPSON Dataset from Samuel F Sampson. “A novitiate in a period of change: An experimental and case study of social relationships." : The social groups are recovered.
 
 ![](/images/sampsonEM3.jpeg)
-
-Evolution of the Log-Posterior
-
-![](/images/LogPosteriorRealSampson.png)
